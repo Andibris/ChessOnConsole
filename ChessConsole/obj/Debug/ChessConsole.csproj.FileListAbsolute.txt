@@ -1,0 +1,7 @@
+C:\Users\anderson.brischiliar.BENNER\source\repos\ChessConsole\bin\Debug\ChessConsole.exe.config
+C:\Users\anderson.brischiliar.BENNER\source\repos\ChessConsole\bin\Debug\ChessConsole.exe
+C:\Users\anderson.brischiliar.BENNER\source\repos\ChessConsole\bin\Debug\ChessConsole.pdb
+C:\Users\anderson.brischiliar.BENNER\source\repos\ChessConsole\obj\Debug\ChessConsole.csprojAssemblyReference.cache
+C:\Users\anderson.brischiliar.BENNER\source\repos\ChessConsole\obj\Debug\ChessConsole.csproj.CoreCompileInputs.cache
+C:\Users\anderson.brischiliar.BENNER\source\repos\ChessConsole\obj\Debug\ChessConsole.exe
+C:\Users\anderson.brischiliar.BENNER\source\repos\ChessConsole\obj\Debug\ChessConsole.pdb
